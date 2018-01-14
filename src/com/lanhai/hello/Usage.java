@@ -7,5 +7,7 @@ public class Usage {
         helloWorld.setName("tomas");
         helloWorld.sayHi();
 
+        System.out.println("end usage");
+
     }
 }
